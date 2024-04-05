@@ -20,7 +20,6 @@
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
 		</dependency>
-
 		<!-- metricas de uso -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -33,8 +32,6 @@
 			<artifactId>micrometer-registry-prometheus</artifactId>
 			<scope>runtime</scope>
 		</dependency>
-
-
 
 		<dependency>
 			<groupId>org.projectlombok</groupId>

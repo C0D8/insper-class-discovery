@@ -1,16 +1,16 @@
 server:
   port: 8761
-
+  
 spring:
   application:
-    name: classroom-discovery
+    name: store-discovery
 
 management:
   endpoints:
     web:
       base-path: /discovery/actuator
       exposure:
-        include: ["prometheus"]
+        include: [ 'prometheus' ]
 
 eureka:
   instance:

@@ -1,1 +1,1 @@
-# insper-class-discovery
+# platform.241.store.discovery
