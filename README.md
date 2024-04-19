@@ -1,1 +1,1 @@
-# platform.241.store.discovery
+# Projeto Insper Classroom - Discovery
